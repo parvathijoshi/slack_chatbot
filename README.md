@@ -21,6 +21,6 @@ This project demonstrates how to build a simple Slack bot using Flask and the Sl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/slackbot-oauth.git
+git clone https://github.com/parvathijoshi/slackbot-oauth.git
 cd slackbot-oauth
 ```
